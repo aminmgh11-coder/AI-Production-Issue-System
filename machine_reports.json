@@ -1,0 +1,52 @@
+[
+  {
+    "machine_id": "IMM-01",
+    "problem_type": "Short Shot",
+    "problem_description": "Part not completely filled",
+    "downtime_minutes": 18,
+    "temperature_c": 210,
+    "injection_pressure_bar": 78,
+    "cycle_time_seconds": 35,
+    "operator_comment": "Cavity was not fully filled after several cycles"
+  },
+  {
+    "machine_id": "IMM-01",
+    "problem_type": "Flash",
+    "problem_description": "Excess material around part edges",
+    "downtime_minutes": 12,
+    "temperature_c": 225,
+    "injection_pressure_bar": 98,
+    "cycle_time_seconds": 37,
+    "operator_comment": "Flash appeared around the mold edges"
+  },
+  {
+    "machine_id": "IMM-02",
+    "problem_type": "Burn Marks",
+    "problem_description": "Dark burn marks on molded part",
+    "downtime_minutes": 20,
+    "temperature_c": 240,
+    "injection_pressure_bar": 90,
+    "cycle_time_seconds": 39,
+    "operator_comment": "Burn marks appeared near the end of the filling area"
+  },
+  {
+    "machine_id": "IMM-02",
+    "problem_type": "Warpage",
+    "problem_description": "Part deformed after cooling",
+    "downtime_minutes": 15,
+    "temperature_c": 230,
+    "injection_pressure_bar": 88,
+    "cycle_time_seconds": 42,
+    "operator_comment": "Finished parts were slightly bent after ejection"
+  },
+  {
+    "machine_id": "IMM-03",
+    "problem_type": "Nozzle Blockage",
+    "problem_description": "Material flow from nozzle reduced",
+    "downtime_minutes": 30,
+    "temperature_c": 205,
+    "injection_pressure_bar": 85,
+    "cycle_time_seconds": 50,
+    "operator_comment": "Material flow became unstable and the machine had to be stopped"
+  }
+]
