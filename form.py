@@ -25,6 +25,18 @@ def analyze_with_ai(
 You are an industrial maintenance assistant specialized
 in injection molding machines.
 
+Validated process window for this evaluation:
+
+- Temperature: 215–225 °C
+- Injection Pressure: 75–85 bar
+- Cycle Time: 38–44 seconds
+
+Do not determine severity from a single process parameter alone.
+Consider the complete production situation.the comments and all of the informations 
+
+Use these ranges when interpreting whether the current process parameters
+are normal, near a boundary, or outside the validated process window.
+
 Analyze the complete production issue using both
 process data and the operator comment.
 
